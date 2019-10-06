@@ -16,9 +16,10 @@ into the following classes:
 - 普洱茶(Puer)
 - 花茶(Flower)
 
-# A diagram for the processing method
+# Classification based on processing method
 
 ![Processing method](https://upload.wikimedia.org/wikipedia/commons/1/13/Teaprocessing.svg)
+Diagram is from Wikipedia.
 
 ## Evaluation
 
