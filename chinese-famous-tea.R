@@ -50,7 +50,7 @@ china.tea %>% ggplot(aes(fill=source, x=tea)) + geom_bar() +
   ) +
   coord_polar() +
   labs(title='中国“十大”名茶',
-       caption='版权所有(c) 2010 Hormet Yiltiz
+       caption='版权所有(c) 2019 hyiltiz
        数据来自https://baike.baidu.com/item/中国十大名茶/176919'
   ) -> pp
 
@@ -70,7 +70,7 @@ china.tea %>% ggplot(aes(y=tea, x=source, label=tea.order)) +
         plot.title = element_text(hjust = 0),
   ) +
   labs(title='中国“十大”名茶',
-       caption='版权所有(c) 2010 Hormet Yiltiz'
+       caption='版权所有(c) 2019 hyiltiz'
   ) -> p
 g <- ggplotGrob(p)
 g$layout$l[g$layout$name == "title"] <- 1
