@@ -25,7 +25,8 @@ dat %>% rename(year=V1, source=V2) %>%
 
 china.tea %>% select(tea, n, tea.color) %>% unique() -> tea.leaderbaord
 china.tea %>% select(n, tea, type) %>% unique() %>%
-  rename('Name (Chiense)'=tea, Class=type, 'Selected by'=n) %>%
+  mutate(type=str_to_title(type)) %>%
+  rename('Name (Chiense)'=tea, Class=type, 'Times selected'=n) %>%
   knitr::kable()
 
 nrow(tea.leaderbaord) -> nteas

@@ -36,7 +36,7 @@ their respective tea class.
 
 ### Tea laderboard
 
-| Selected by|Name (Chiense) |Class  |
+| Times selected|Name (Chiense) |Class  |
 |-----------:|:--------------|:------|
 |           5|洞庭碧螺春     |Green  |
 |           5|西湖龙井       |Green  |
