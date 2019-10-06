@@ -28,8 +28,10 @@ their respective tea class.
 ## Figures and tables
 
 ![chinese-top-ten-teas-png](./chinese-famous-teas.png "Top Ten Teas")
+[Higher resolution](./chinese-famous-teas.pdf)
 
 ![chinese-top-ten-teas-grid-png](./chinese-famous-teas-grid.png "Top Ten Teas Table")
+[Higher resolution](./chinese-famous-teas-grid.pdf)
 
 
 

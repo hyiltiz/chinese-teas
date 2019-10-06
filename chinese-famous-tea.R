@@ -86,11 +86,11 @@ dev.off()
 
 
 png(filename='chinese-famous-teas.png', width=840, height = 860, family='SimHei',
-    units='px', pointsize = 12)
+    units='px', pointsize = 12, res=1200)
 print(pp)
 dev.off()
 
 png(filename='chinese-famous-teas-grid.png', width=250, height = 800, family='SimHei',
-    pointsize = 12)
+    pointsize = 12, res=1200)
 grid::grid.draw(g)
 dev.off()
