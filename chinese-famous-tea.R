@@ -24,6 +24,7 @@ dat %>% rename(year=V1, source=V2) %>%
   mutate(tea=as_factor(tea), tea.color=str_c(tea.color)) -> china.tea
 
 china.tea %>% select(tea, n, tea.color) %>% unique() -> tea.leaderbaord
+china.tea %>% select(tea, n, type) %>% rename(`selected-by`=n) %>% knitr::kable()
 
 nrow(tea.leaderbaord) -> nteas
 x.angles <- c(seq(90-360/nteas/2, -90, length.out = nteas/2),
