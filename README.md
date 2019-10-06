@@ -2,20 +2,23 @@
 
 ## Classification
 
-Chiense teas are classified based on production sites and the production methods.
+Chiense teas are classified based on production sites and the processing methods.
 A tea name usually starts with its production site, followed by its name used
-by the locals at that site. Based on the production method, a Chinese tea can be classified
+by the locals at that site. Based on the processing method, a Chinese tea can be classified
 into the following classes:
 
 - 绿茶(Green)
-- 红茶(Red)
-- 黑茶(Black)
-- 乌龙茶(Oloong)
 - 黄茶(Yellow)
 - 白茶(White)
-- 花茶(Flower)
+- 乌龙茶(Oloong)
+- 红茶(Red)
+- 黑茶(Black)
 - 普洱茶(Puer)
+- 花茶(Flower)
 
+# A diagram for the processing method
+
+![Processing method](https://en.wikipedia.org/wiki/Tea_processing#/media/File:Teaprocessing.svg)
 
 ## Evaluation
 
@@ -52,7 +55,7 @@ their respective tea class.
 |           2|福建银针       |White  |
 |           1|蒙顶甘露       |Green  |
 |           1|恩施玉露       |Green  |
-|           1|云南普洱茶     |Black  |
+|           1|云南普洱茶     |Puer   |
 |           1|福建云茶       |Green  |
 |           1|苏州茉莉花     |Flower |
 
