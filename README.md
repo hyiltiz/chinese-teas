@@ -18,7 +18,7 @@ into the following classes:
 
 # A diagram for the processing method
 
-![Processing method](https://en.wikipedia.org/wiki/Tea_processing#/media/File:Teaprocessing.svg)
+![Processing method](https://upload.wikimedia.org/wikipedia/commons/1/13/Teaprocessing.svg)
 
 ## Evaluation
 
