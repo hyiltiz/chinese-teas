@@ -36,58 +36,24 @@ their respective tea class.
 
 ### Tea laderboard
 
-|name (Chinese) | times selected|type   |
-|:----------|-----------:|:------|
-|洞庭碧螺春 |           5|Green  |
-|西湖龙井   |           5|Green  |
-|洞庭碧螺春 |           5|Green  |
-|黄山毛峰   |           5|Green  |
-|西湖龙井   |           5|Green  |
-|洞庭碧螺春 |           5|Green  |
-|西湖龙井   |           5|Green  |
-|洞庭碧螺春 |           5|Green  |
-|洞庭碧螺春 |           5|Green  |
-|西湖龙井   |           5|Green  |
-|黄山毛峰   |           5|Green  |
-|黄山毛峰   |           5|Green  |
-|黄山毛峰   |           5|Green  |
-|六安瓜片   |           5|Green  |
-|黄山毛峰   |           5|Green  |
-|六安瓜片   |           5|Green  |
-|西湖龙井   |           5|Green  |
-|安溪铁观音 |           5|Oolong |
-|六安瓜片   |           5|Green  |
-|六安瓜片   |           5|Green  |
-|安溪铁观音 |           5|Oolong |
-|安溪铁观音 |           5|Oolong |
-|安溪铁观音 |           5|Oolong |
-|六安瓜片   |           5|Green  |
-|安溪铁观音 |           5|Oolong |
-|信阳毛尖   |           4|Green  |
-|信阳毛尖   |           4|Green  |
-|信阳毛尖   |           4|Green  |
-|信阳毛尖   |           4|Green  |
-|庐山云雾   |           3|Green  |
-|武夷岩茶   |           3|Oolong |
-|都匀毛尖   |           3|Green  |
-|祁门红茶   |           3|Red    |
-|祁门红茶   |           3|Red    |
-|庐山云雾   |           3|Green  |
-|都匀毛尖   |           3|Green  |
-|武夷岩茶   |           3|Oolong |
-|都匀毛尖   |           3|Green  |
-|武夷岩茶   |           3|Oolong |
-|祁门红茶   |           3|Red    |
-|庐山云雾   |           3|Green  |
-|君山银针   |           2|Yellow |
-|福建银针   |           2|White  |
-|君山银针   |           2|Yellow |
-|福建银针   |           2|White  |
-|蒙顶甘露   |           1|Green  |
-|恩施玉露   |           1|Green  |
-|云南普洱茶 |           1|Puer   |
-|福建云茶   |           1|Green  |
-|苏州茉莉花 |           1|Flower |
-
+| Selected by|Name (Chiense) |Class  |
+|-----------:|:--------------|:------|
+|           5|洞庭碧螺春     |Green  |
+|           5|西湖龙井       |Green  |
+|           5|黄山毛峰       |Green  |
+|           5|六安瓜片       |Green  |
+|           5|安溪铁观音     |Oolong |
+|           4|信阳毛尖       |Green  |
+|           3|庐山云雾       |Green  |
+|           3|武夷岩茶       |Oolong |
+|           3|都匀毛尖       |Green  |
+|           3|祁门红茶       |Red    |
+|           2|君山银针       |Yellow |
+|           2|福建银针       |White  |
+|           1|蒙顶甘露       |Green  |
+|           1|恩施玉露       |Green  |
+|           1|云南普洱茶     |Black  |
+|           1|福建云茶       |Green  |
+|           1|苏州茉莉花     |Flower |
 
 [1]: https://baike.baidu.com/item/中国十大名茶/176919

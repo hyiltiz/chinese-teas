@@ -24,7 +24,9 @@ dat %>% rename(year=V1, source=V2) %>%
   mutate(tea=as_factor(tea), tea.color=str_c(tea.color)) -> china.tea
 
 china.tea %>% select(tea, n, tea.color) %>% unique() -> tea.leaderbaord
-china.tea %>% select(tea, n, type) %>% rename(`selected-by`=n) %>% knitr::kable()
+china.tea %>% select(n, tea, type) %>% unique() %>%
+  rename('Name (Chiense)'=tea, Class=type, 'Selected by'=n) %>%
+  knitr::kable()
 
 nrow(tea.leaderbaord) -> nteas
 x.angles <- c(seq(90-360/nteas/2, -90, length.out = nteas/2),
@@ -86,11 +88,11 @@ dev.off()
 
 
 png(filename='chinese-famous-teas.png', width=840, height = 860, family='SimHei',
-    units='px', pointsize = 12, res=1200)
+    units='px', pointsize = 12)
 print(pp)
 dev.off()
 
 png(filename='chinese-famous-teas-grid.png', width=250, height = 800, family='SimHei',
-    pointsize = 12, res=1200)
+    pointsize = 12)
 grid::grid.draw(g)
 dev.off()
